@@ -42,3 +42,36 @@ cd ..
 npx create-react-app frontend
 cd frontend
 npm install axios react-router-dom
+
+
+
+********************** GITS METHODS *****************************************
+
+**Steps to push code on New create Repo or Already created Repo using bash**
+1. Create a Repo on Git hub
+2. copy the url from code -> HTTPS
+
+Type in Terminal :-
+git remote add origin <.git url>
+git add .
+git commit -am "<message>"
+git push origin	
+
+
+***For open git project in VSCode***
+1. Open to download zip
+2. open using HTTPS link (create folder - open terminal in folder - type git clone <link> - file in folder  - then open with vsCode
+
+
+***For push code using VSCode on git-hub***
+1.  Push using source control in vsCode (add staged changes & push)
+2. Using Terminal
+      git add .
+      git commit - am <msg>
+      git push origin
+
+
+**Open Code of Git repo in codespace (vsCode web)***
+.
+.
+.
