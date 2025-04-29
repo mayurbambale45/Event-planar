@@ -43,6 +43,11 @@ npx create-react-app frontend
 cd frontend
 npm install axios react-router-dom
 
+create folders and files and add code in it.
+
+for run code =>
+backend -> npm run dev
+frontend -> npm run dev
 
 
 ********************** GITS METHODS *****************************************
